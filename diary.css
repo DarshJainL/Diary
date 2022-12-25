@@ -1,0 +1,24 @@
+#button_position
+{
+    float: right;
+}
+
+#date
+{
+    float: left;
+}
+
+#position_float
+{
+    float: left;
+}
+
+.body_background_color
+{
+    background-color: chocolate;
+}
+
+.text_color
+{
+    text-decoration-color: white;
+}
